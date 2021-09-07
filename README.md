@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este é um projeto voltado para o estudo de Ruby.
 
 Things you may want to cover:
 
